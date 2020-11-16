@@ -1,0 +1,10 @@
+<link rel="stylesheet" href="../Styles/bootstrap.min.css">
+<link rel="stylesheet" href="../Styles/border.css">
+    <script src ="../Scripts/jquery-3.5.1.min.js"></script> 
+    <script src ="../Scripts/Chart.min.js"></script>   
+    <script src ="../Scripts/popper.min.js"></script>
+    <script src ="../Scripts/bootstrap.min.js"></script>
+    <script src ="../Scripts/sweetalert.js"></script>
+    <script src ="../DataTables/jquery.dataTables.min.js"></script>
+    <link rel="stylesheet" href="../DataTables/jquery.dataTables.min.css">
+    <link rel="stylesheet" href="../font-awesome-4.7.0/css/font-awesome.min.css">
